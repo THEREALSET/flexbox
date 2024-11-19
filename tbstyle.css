@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+menu {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+h1 {
+    text-align: left;
+    flex: 0 0 200px;
+}
